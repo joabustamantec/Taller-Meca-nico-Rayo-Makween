@@ -1,0 +1,23 @@
+#blog{
+    text-align: center;
+    background: rgb(0, 0, 0);
+    color: white;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+
+}
+
+#blog h2{
+    padding-bottom: 1vh;
+}
+
+#blog img{
+    width: 350px;
+    height: 210px;
+}
+
+
+#blog .contendor{
+    display: flex;
+
+}
