@@ -1,4 +1,4 @@
-#bienvenidos{
+#contenido{
     text-align: center;
     padding-top: 5vh;
     padding-bottom: 5vh;
@@ -6,11 +6,11 @@
     padding-left: 5vh;
     background-color: rgb(199, 0, 0);
     color: white;
-    margin-bottom: 5;
+    
     margin-top: -1vh;
     
 }
 
-#bienvenidos h2{
+#contenido h2{
     padding-bottom: 1vh;
 }

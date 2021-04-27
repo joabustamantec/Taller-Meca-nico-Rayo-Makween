@@ -8,25 +8,31 @@
 
 #banner .contenedor{
     position: absolute;
-    top: 26%;
+    top: 10%;
     left: 5%;
     color: white;
     text-align: center;
     width: 90%;
+    height: auto;
 
+}
+
+#banner .contenedor h1{
+    -webkit-text-stroke-color: rgb(216, 164, 164);
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    font-size: 34px;
 }
 
 #banner .contenedor h2{
-    -webkit-text-stroke-color: rgb(0, 0, 0);
-      /* shorthand */
+    -webkit-text-stroke-color: rgb(216, 164, 164);
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-      /* color del texto */
     -webkit-text-fill-color: rgb(255, 255, 255);
-    font-size: 30px;
+    font-size: 27px;
+    margin-bottom: 8px;
 }
-#banner p{
-    font-size: 18px;
-}
+
+
 #banner a{
     display: block;
     width: 100px;
